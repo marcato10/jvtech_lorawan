@@ -1,0 +1,184 @@
+.pio/build/dev/src/main.cpp.o: src/main.cpp \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/arduino_lmic.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/oslmic.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/config.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_config_preconditions.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/../../project_config/lmic_project_config.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_env.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/oslmic_types.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/hal.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lorabase.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lorabase_au915.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_compat.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_bandplan.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_bandplan_au915.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_us_like.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_util.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/hal/hal.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/arduino_lmic_hal_configuration.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/lmic_env.h \
+ .pio/libdeps/dev/MCCI\ LoRaWAN\ LMIC\ library/src/lmic/oslmic_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src/SPI.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/soc_caps.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/variants/esp32/pins_arduino.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/FreeRTOS.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/config/include/freertos/FreeRTOSConfig.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/config/xtensa/include/freertos/FreeRTOSConfig_arch.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa_config.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/hal.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/core.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/xtensa-versions.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/tie.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/system.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa_context.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/corebits.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/xtruntime-frames.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/projdefs.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/portable.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/deprecated_definitions.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portmacro.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/xtruntime.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/specreg.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/xtruntime-core-state.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xt_instr_macros.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa/xtruntime.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/spinlock.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_cpu.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xtensa_api.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/include/xt_utils.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/xtensa/esp32/include/xtensa/config/extreg.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_bit_defs.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_attr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_intr_alloc.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_err.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_compiler.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_intr_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_system/include/esp_private/crosscore_int.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_macros.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_assert.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_memory_utils.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/soc.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_assert.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/interrupts.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/reg_base.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/newlib/platform_include/esp_newlib.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/heap/include/esp_heap_caps.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/heap/include/multi_heap.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_rom/include/esp_rom_sys.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/reset_reasons.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_system/include/esp_system.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_common/include/esp_idf_version.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos/portbenchmark.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/mpu_wrappers.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/esp_additions/include/freertos/idf_additions.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/task.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/list.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/queue.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/task.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/semphr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/queue.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/stream_buffer.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/message_buffer.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/stream_buffer.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/event_groups.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/freertos/FreeRTOS-Kernel/include/freertos/timers.h \
+ .pio/libdeps/dev/Adafruit\ NeoPixel/Adafruit_NeoPixel.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp_arduino_version.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp8266-compat.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/gpio_reg.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/stdlib_noniso.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/binary.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/extra_attr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_sleep.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/hal/include/hal/touch_sensor_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/hal/include/hal/gpio_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/gpio_num.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_timer/include/esp_timer.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_etm.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_rom/include/esp32/rom/ets_sys.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/log/include/esp_log.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/log/include/esp_log_internal.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/gpio_sig_map.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/hal/include/hal/uart_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/clk_tree_defs.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_driver_gpio/include/driver/gpio.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_rom/include/esp_rom_gpio.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/soc/esp32/include/soc/gpio_pins.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_driver_gpio/include/driver/gpio_etm.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch-ng.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-dac.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-adc.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-i2c.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-ledc.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/hal/include/hal/ledc_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rmt.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-sigmadelta.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-timer.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_driver_gptimer/include/driver/gptimer_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/hal/include/hal/timer_types.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-bt.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-psram.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rgb-led.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-cpu.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/WCharacter.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/pgmspace.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Printable.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/ip_addr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/opt.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/port/include/lwipopts.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/newlib/platform_include/sys/ioctl.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/newlib/platform_include/sys/poll.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_system/include/esp_task.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/esp_random.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/port/include/sntp/sntp_get_set_time.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/port/include/sockets_ext.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/port/freertos/include/arch/sys_arch.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/debug.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/arch.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/port/esp32xx/include/arch/cc.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/newlib/platform_include/errno.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/def.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/ip4_addr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/ip6_addr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/def.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/lwip/lwip/src/include/lwip/ip6_zone.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_netif/include/esp_netif_ip_addr.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Client.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Server.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Udp.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/HWCDC.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/USBCDC.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/Esp.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_partition/include/esp_partition.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/hal/cpu_hal.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/tools/esp32-arduino-libs/esp32/include/esp_hw_support/include/hal/cpu_ll.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/freertos_stats.h \
+ .pio/libdeps/dev/LoRa/src/LoRa.h \
+ .pio/libdeps/dev/ArduinoJson/src/ArduinoJson.h \
+ .pio/libdeps/dev/ArduinoJson/src/ArduinoJson.hpp \
+ .pio/libdeps/dev/ArduinoJson/src/ArduinoJson/Configuration.hpp \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
+ /home/marcato/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareI2C.h \
+ .pio/libdeps/dev/DHT\ sensor\ library/DHT.h
